@@ -1,0 +1,12 @@
+packages:
+  "recharts": "Dashboard analytics charts and data visualization"
+  "framer-motion": "Page transitions and staggered animations"
+  "date-fns": "Human-readable date formatting"
+  "clsx": "Utility for tailwind class merging"
+  "tailwind-merge": "Utility for tailwind class merging"
+images:
+  - path: "artifacts/security-dashboard/public/images/cyber-grid.png"
+    description: "Abstract cybersecurity network grid background with glowing neon cyan and dark blue nodes, highly professional, dark mode, 4k"
+    aspect_ratio: "16:9"
+notes:
+  - "Importing API hooks directly from @workspace/api-client-react as specified in implementation notes"
